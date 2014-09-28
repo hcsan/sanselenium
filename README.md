@@ -1,4 +1,0 @@
-sanselenium
-===========
-
-SanFramework
